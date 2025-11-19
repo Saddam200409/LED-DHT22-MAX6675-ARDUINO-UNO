@@ -1,1 +1,1 @@
-# LED-IOT-3-LED-AND-LDR
+HELLO GUYS HOW ARE YOU? THIS IS MY PROJECT USED FOR INPUTAN SENSOR DHT22,MX 6675, Microcontroller Arduino Uno and outputan used LED soon i will upload program from IDE Processing for you can see real time data from sensor
